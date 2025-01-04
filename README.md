@@ -6,7 +6,7 @@
 
 **Domin:Full Stack deveploer**
 
-**Duration :dec 20th,2024 to jan 20th ,2024**
+**Duration :dec 20th,2024 to jan 20th ,2025**
 
 Overview: Building a Personal Portfolio Website with a Backend
 Creating a personal portfolio website with a backend is an excellent project to showcase your skills and learn web development. Here's an overview of how the project is structured and what you'll learn:
